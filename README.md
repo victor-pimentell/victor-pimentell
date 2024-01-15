@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Meu nome é Victor</h1>
-<h3 align="center">Sou estudante em Ciência da Computação. Sempre fui aficionado por tecnologia, videogames, amo montar computadores e descobrir como as coisas funcionam. Descobri programação por meio de jogos e emuladores, quando percebi seu potencial, decidi que essa seria a área a qual eu iria me dedicar. Atualmente programo em Java, mas também tenho planos de aprender outras linguagens.</h3>
+<h3 align="center">Sou estudante em Ciência da Computação. Sempre fui aficionado por tecnologia, videogames, amo montar computadores e aprender como as coisas funcionam. Descobri programação por meio de jogos e emuladores, quando percebi seu potencial, decidi que essa seria a área a qual eu iria me dedicar. Atualmente programo em Java, mas também tenho planos de aprender outras linguagens.</h3>
 
 - 🌱 No momento estou aprendendo **Spring boot, HTML e CSS.**
 
