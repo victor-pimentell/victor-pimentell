@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Meu nome é Victor</h1>
 <h3 align="center">Sou estudante em Ciência da Computação. Sempre fui aficionado por tecnologia, videogames, amo montar computadores e aprender como as coisas funcionam. Descobri programação por meio de jogos e emuladores, quando percebi seu potencial, decidi que essa seria a área a qual eu iria me dedicar. Atualmente programo em Java, mas também tenho planos de aprender outras linguagens.</h3>
 
-- 🌱 No momento estou aprendendo **Spring boot, HTML e CSS.**
+- 🌱 No momento estou aprendendo **Spring boot e JavaScript.**
 
 - 📫 Como chegar até mim **victorpimentelw@gmail.com**
 
@@ -13,6 +13,6 @@
 <a href="https://linkedin.com/in/victor pimentel correia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor pimentel correia" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viictorp&show_icons=true&locale=en&layout=compact" alt="viictorp" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-pimentell&show_icons=true&locale=en&layout=compact" alt="victor-pimentell" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viictorp&show_icons=true&locale=en" alt="viictorp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victor-pimentell&show_icons=true&locale=en" alt="victor-pimentell" /></p>
